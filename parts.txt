@@ -1,0 +1,11 @@
+メガロマン部品リスト
+
+注意 RaspberryPiPico取付前にLED.jpgを参考にしてRaspberryPiPicoからLED又は抵抗を外して下さい。
+
+C1 セラミック 0.01u
+C2 電解 1u～10u位
+R1 1k
+U1 RaspberryPiPico互換ボード(128MビットフラッシュROM搭載品) (LEDか抵抗を外しておく)
+   ボード詳細はこちらを参考にして下さいhttps://github.com/piigaa-densetu-two-dai/MSXIOI
+
+音声出力機能が不要な場合はC1,C2,R1は取付不要です。
